@@ -1,5 +1,5 @@
 #########  Config  ###########
-$LOG_CONSOLE = False
+$LOG_CONSOLE = 1
 $DOMAIN = 'your.domain.here'
 $SUB_DOMAIN = 'subdomain'
 $VERCEL_TOKEN = 'VeRce1_T0keN'
