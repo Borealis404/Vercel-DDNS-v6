@@ -1,11 +1,11 @@
 # Vercel-DDNS-v6
 Use Vercel RESTAPI to do IPv6 DDNS.
-
+Can modify to add an IPv4 version quickly but im lazy af lol.
 Quotes in script.
 
-# Addition files
+# Additional files
 ## ddns.log
-Opration log file.
+Operation log file.
 ## currentv6.ipaddr
 Store IPv6 addr. to reduce API usage when it's same as last.
 ## uid
